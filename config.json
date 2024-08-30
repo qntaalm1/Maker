@@ -1,7 +1,7 @@
 { 
 "prefix":"$",
 "owner":["590828897374044181"],
-"token": process.env.token,
+"token": "token",
 "mainGuild": "1115789631250772052",
 "CoderServer":"1115789631250772052",
 "CLIENTID":"ا1274061472837931179",
