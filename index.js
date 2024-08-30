@@ -71,7 +71,7 @@ for (let folder of readdirSync('./PrivateSlashCommand/').filter(folder => !folde
 console.log(Guildtable.toString());
 
 
-const process = require('process');
+//const process = require('process');
 
 client.on('ready', async () => {
   console.log(chalk.magentaBright('The bot is ready'));
